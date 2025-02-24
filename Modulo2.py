@@ -1,5 +1,4 @@
-#2.1.5   LAB   Trabalhando com a função print()
+#2.1.12 LAB A função print() e seus argumentos
 
-print('ola python!')
-print('Aluno')
-print('"Aluno"')
+print('Programação','Essenciais','em', sep ='***', end='...')
+print('Python')
